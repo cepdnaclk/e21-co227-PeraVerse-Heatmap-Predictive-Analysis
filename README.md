@@ -13,9 +13,9 @@ title: Heatmap Predictive Analytics for Exhibition Spaces
 
 ## Team
 - E/21/339, Rukshan A.D., [e21339@eng.pdn.ac.lk](mailto:e21339@eng.pdn.ac.lk)
-- E/21/254, Manilgama N.C., [e21254@eng.pdn.ac.lk](mailto:e21xxx@eng.pdn.ac.lk)
-- E/21/292, Perera K.A.P.M., [e21292@eng.pdn.ac.lk](mailto:e21200@eng.pdn.ac.lk)
-- E/21/200, Jayasuriya, [e21200@eng.pdn.ac.lk](mailto:e21200@eng.pdn.ac.lk)
+- E/21/254, Manilgama N.C., [e21254@eng.pdn.ac.lk](mailto:e21254@eng.pdn.ac.lk)
+- E/21/292, Perera K.A.P.M., [e21292@eng.pdn.ac.lk](mailto:e21292@eng.pdn.ac.lk)
+- E/21/200, Jayasuriya A.R.M., [e21200@eng.pdn.ac.lk](mailto:e21200@eng.pdn.ac.lk)
 
 ## Supervisors
 - Ms. Yasodha Vimukthi, [yasodhav@eng.pdn.ac.lk](mailto:yasodhav@eng.pdn.ac.lk)
