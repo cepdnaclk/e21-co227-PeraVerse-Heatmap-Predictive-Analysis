@@ -37,13 +37,10 @@
         "React",
         "TypeScript",
         "Vite",
-        "EMA Algorithm",
         "Real-time Analytics",
         "Heatmap Visualization",
         "Predictive Analysis",
         "PostgreSQL",
-        "Supabase",
-        "Crowd Management",
-        "75Exhibition"
+        "Crowd Management"
     ]
 }
